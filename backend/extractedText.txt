@@ -1,0 +1,170 @@
+
+
+Birla Institute of Technology and Science Pilani
+IS/SE/SS ZC444:  Artificial Intelligence
+Assignment-01:  Custom AI Chatbot Using LLM
+10% weightage, Deadline 27 Nov 2023
+1  Introduction
+In this assignment we will develop a custom conversational AI agent (Chatbot) using openAI
+APIs.   You  know  such  systems  can  provide  replies  to  user’s  queries.   By  custom  we  mean
+that the answers will be based on domain specific knowledge provided to the AI agent using
+a PDF. In this assignment, we will only focus on text-based conversations.  This assignment
+has four parts.
+1.  Develop  a  webapp,  allowing  user  to  chat  with  the  AI  agent  by  providing  a  place  to
+enter his query and see the responses obtained by the system.  This is similar to any
+instant messaging system where our responses are coming from the AI agent.  To test
+the functionality of this step the Chatbot can generate random responses.
+[Marks 1%]
+2.  Extend the webapp developed above to integrate openAI. Now the Chatbot will gener-
+ate the responses using openAI API’s similar to ChatGPT. You can get details of using
+openAI  API’s  fromhttps://community.openai.com/.   You  may  have  to  create  an
+account in openAI for this step.  You can look on a short course on youtube “Building
+Systems with the ChatGPT API: A short course from OpenAI and DeepLearning.AI”
+1
+.
+Also you can do a google search “How to Build an AI-Powered ChatBot with OpenAI,
+ChatGPT, Node.js, and React” and see the material available online
+2
+.
+[Marks 2%]
+3.  Further extend the above Chatbot by customising it to generate responses confined to
+a domain specific knowledge gathered by supplying a PDF to the system.  You have
+to use embedding model API’s of OpenAI to generate the embedding of a given PDF
+and  use  it  as  a  database  for  providing  domain  specific  responses.   Search  on  google
+“Customizing an OpenAI Chatbot With Embeddings” and visit page
+3
+.
+[Marks 3%]
+1
+https://www.youtube.com/watch?v=BunESRhYhec
+2
+https://www.freecodecamp.org/news/how-to-build-a-chatbot-with-openai-chatgpt-nodejs-and-react/
+3
+https://blog.bitsrc.io/customizing-an-openai-chatbot-with-embeddings-fdc9ec859bbb
+1
+
+4.  Integrate the uploading of PDF, generating embedding, and the AI agent into a sin-
+gle  web  application.   The  GUI  of  the  app  should  allow  users  to  browse  and  upload
+multiple PDFsand set the context for the conversation.  Now the Chatbot should
+answer based on the supplied PDFs.
+[Marks 3%]
+API key will be provide to you by the instructor over email.  Use it wisely for this project
+only and never distribute.  Please note that same will be deactivated once submission date is
+over.
+•You application should run on porthttp://localhost:3000
+•Web stack should be restricted to
+backend:  nodejs,
+frontend:  react,
+database to store embeddings:  excel
+•For embedding usetext-embedding-ada-002and for chat completiontext-davinci-003
+model.
+2  Submission
+Make a single zip file consisting of 1) source code, 2) readMe file containing installation and
+execution instructions.
+•Upload zip file through the e-learn portal
+https://elearn.bits-pilani.ac.in/
+•Create a short video of less than 5 min, demonstrating the working of your app.  Share
+it’s link in the readMe file and fill the form
+https://forms.gle/dEAzpo38ULxejoRf7
+[Marks 1%].
+•Submission Deadline:27 Nov 2023
+3  Honour Code
+The code must be written independently.  Plagiarisms will fetch negative marks.
+2
+
+20/11/2023HALL TICKET FOR EC3  EC3 REGULAR
+Birla Institute of Technology & Science, Pilani(Raj.)
+Work Integrated Learning Programmes Division
+2023-2024 SEM 1
+HALL TICKET FOR EC3  EC3 REGULAR
+ID No:2023MT12132
+Name:KOLLU ABISHAI
+Degree:MTech - Software Systems
+Download Date & Time:20/11/2023 - 2:42:31 AM
+Course
+Code
+Course NameExam TypeExam Date and SlotExam Venue
+SSZC444
+ARTIFICIAL
+INTELLIGENC
+E
+EC3 REGULAR
+2023-11-24,FRIDAY,
+AN_NSPM-R
+ONLINE-EXAMS -
+SSZG519
+DATA
+STRUCTURES
+& ALGO
+DESIGN
+EC3 REGULAR
+2023-11-25,SATURDAY,
+FN_NSPM-R1
+ONLINE-EXAMS -
+SSZG526
+DISTRIBUTED
+COMPUTING
+EC3 REGULAR
+2023-11-25,SATURDAY,
+AN_NSPM-R1
+ONLINE-EXAMS -
+SSZG518
+DATABASE
+DESIGN & AP
+PLICATIONS
+EC3 REGULAR
+2023-11-26,SUNDAY,
+AN_NSPM-R2
+ONLINE-EXAMS -
+Exam TimingsFORENOON (FN) SESSION: 9:00 AM TO 11:30 AM ISTAFTERNOON (AN) SESSION: 1:00 PM TO 3:30 PM IST
+EVENING (EN) SESSION: 4:30 PM TO 7:00 PM IST
+
+Instructions:
+1.This hall ticket is valid only for the examinations mentioned in the table above.
+2.Please check all the information given in this hall ticket carefully. If there is any discrepancy in your course package or identification information,
+please contact WILP Registration Cell at registration@wilp.bits-pilani.ac.in immediately. Always quote your BITS ID No. and name in all email
+transactions.
+3.You must keep this hall ticket during the examination along with one of the government issued photo identity card like Aadhaar, Passport, PAN or
+Driving License. You will NOT be permitted to appear in examinations without the hall ticket.
+4.You are required to have a Laptop / Desktop with an embedded Camera and microphone, a mobile phone with working front and back camera,
+smooth and uninterrupted internet connectivity (throughout the test session) with a speed of 1 MBPS for appearing for the Online Proctored
+Examinations. Please note that this is mandatory. Note that in case you do not have the above mentioned setup, you will not be able to take the
+exam.
+5.Please check the course number and course title that appear on the question paper and ensure it is the same as per hall ticket.
+6.For online proctored examinations, you should login using the link at the scheduled time and submit your Photo & ID Proof for the cross verification
+by the proctors. Please note that for ID Proof, you have to present only the downloaded Hall Ticket. Please don't present any other ID card as your
+ID Proof in the system.
+7.Refer to the Online Proctored Examination Instructions & Test Guidelines for taking Online Proctored Examination, Process Manual for Taking
+Online Proctored Examination, FAQ's on Online Proctored Examination documents mailed by WILP Team for taking the exam. You can also refer to
+exam announcement made on the e- learn portal.
+8.For certain course exams, you should enter your responses directly into the text box provided for each question. Be mindful of formatting and any
+specific instructions given in the exam paper. Pay careful attention to any unique instructions provided in the exam paper. This includes guidelines
+on formatting, word limits, or any other requirements for your answers. For some exams, submitting handwritten answers by scanning and uploading
+them is not allowed. Ensure that you follow this rule if it applies to your exam. Always be aware of any exceptions or variations in submission
+methods that may apply to specific exams. If the instructions state that, for certain exams, handwritten answers cannot be submitted via scanning
+and uploading, make sure you comply with this rule.
+9.Proctor (Invigilator) will be your first point of contact for all your support requirements during the exam. You can chat with Proctor through the Chat
+Window during the exam. In case you are facing any exceptional issues in uploading the hand-written answer scripts using QR code during the
+exam, please bring it to the attention of the Proctor.
+Please note that any exam answer scripts shared through email will be considered as invalid and it will not be considered for evaluation.
+10.The below activities are strictly NOT permitted during the exam:
+•Using Bluetooth / Headphones / Earphone / Smart Watches / Kindle / iPods during the examination.
+•Someone standing / sitting near the student.
+•Student talking to someone.
+•Mobile Phone usage is strictly not allowed other than contacting the Exam Helpline number or attending the call from Exam tech support team for
+resolving the issues faced during the exam or for scanning and uploading the hand written answers on the online examination platform.
+•Moving away from Camera and thereby from the Proctors supervision.
+•Face not visible to the proctor (In such case, student should readjust the focus of the Camera to make their face visible to the proctor).
+•Use of Dual Monitors / Additional Screens / Extended Monitors.
+•Usage of ANY messaging application (example - WhatsApp, Telegram, Signal, Chat GPT or any other messaging services) during the
+examination.
+•Internet searches and referring to other websites.
+11.I have carefully read and understood the institute’s policies, instructions and guidelines pertaining to examinations. I will use my mobile phone
+solely for the purpose of scanning and uploading my handwritten answer sheets (if applicable) during the examination(s). I am aware that the use of
+mobile phones during the examination-duration for purposes other than scanning and uploading answer-sheets is strictly prohibited. I understand
+that the use of any messaging application(s) such as WhatsApp, Telegram, Signal etc OR any other digital platform like search engines, generative
+AI based tools, websites etc during the examination(s) shall be considered as an adoption of unfair means by me. I am aware that if I am found
+involved in such prohibited activities to use unfair means of any kind during the examination(s) then strict action as per institute’s zero-tolerance
+policy will be taken against me. I hereby declare that I will follow all the guidelines prescribed by the institute and I will not attempt to indulge in any
+unfair means or malpractice during the examinations.
+Date:___________________Student Signature:_______________________
