@@ -19,11 +19,10 @@ To get ChatBotAI up and running locally, follow these steps:
 
 ### Clone the Repository
 
-```bash
 git clone https://github.com/abishaikollu/ChatBotAI.git
 cd ChatBotAI
 
-Install Dependencies
+### Install Dependencies
 
 For frontend (React):
 cd frontend
@@ -33,15 +32,17 @@ For backend (Node.js):
 cd backend
 npm install
 create a .env with format given in .env_example.
+provide your own API KEY in the given format
 
-To run the application locally, you need to start both the frontend and the backend servers.
+### To run the application locally, you need to start both the frontend and the backend servers.
 
-Starting the Backend Server
+### Starting the Backend Server
 
 cd backend
 node app.js
 
-Starting the Frontend Application
+### Starting the Frontend Application
+
 In a new terminal window:
 
 cd frontend
