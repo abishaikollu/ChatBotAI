@@ -6,12 +6,6 @@ Welcome to ChatBotAI, a web-based chatbot application built using React for the 
 
 ChatBotAI is designed to provide users with an interactive chat experience. Leveraging the power of modern web technologies, this chatbot aims to deliver quick, accurate responses to user queries.
 
-### Features
-
-- Interactive Chat Interface
-- Built with React and Node.js
-- Responsive Design for all devices
-- AI-powered response system
 
 ## Installation
 
